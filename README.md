@@ -20,5 +20,5 @@ Here is a list of the problems I have solved so far. I will be updating this lis
 ## 🔗 Connect with Me
 
 * **LinkedIn:** [https://www.linkedin.com/in/antonio-guilherme-santos/](https://www.linkedin.com/in/antonio-guilherme-santos/)
-* **LeetCode Profile:** [[Your LeetCode Profile URL Here](https://leetcode.com/u/guidev-01/)]
+* **LeetCode Profile:** [[https://leetcode.com/u/guidev-01/](https://leetcode.com/u/guidev-01/)]
 * **Portfolio (OrionJobs AI):** [[Link to your project when it's live](https://github.com/GuiDev-01/orion-jobs-ai)]
