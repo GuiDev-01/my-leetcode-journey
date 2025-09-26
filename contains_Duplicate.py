@@ -1,6 +1,5 @@
 from typing import List
 
-# Sua solução, agora dentro da estrutura de classe do LeetCode.
 class Solution:
     def containsDuplicate(self, nums: List) -> bool:
         seen = {}
