@@ -13,12 +13,13 @@ Here is a list of the problems I have solved so far. I will be updating this lis
 | # | Title | Solution | Difficulty | Key Pattern / Data Structure |
 |:---:|:---|:---:|:---:|:---|
 | 1 | Two Sum | [Python](./001-two-sum.py) | `Easy` | Hash Map (Dictionary) |
-| | | | | |
+| 217 | Contains Duplicate | [Python](./contains_Duplicate.py) | `Easy` | Hash Set / Hash Map |
+| 125 | Valid Palindrome | [Python](./validPalindrome.py) | `Easy` | Two Pointers / String Manipulation |
 
 ---
 
 ## 🔗 Connect with Me
 
-* **LinkedIn:** [https://www.linkedin.com/in/antonio-guilherme-santos/](https://www.linkedin.com/in/antonio-guilherme-santos/)
-* **LeetCode Profile:** [[https://leetcode.com/u/guidev-01/](https://leetcode.com/u/guidev-01/)]
-* **Portfolio (OrionJobs AI):** [[Link to your project when it's live](https://github.com/GuiDev-01/orion-jobs-ai)]
+* **LinkedIn:** [Antônio Guilherme Santos](https://www.linkedin.com/in/antonio-guilherme-santos/)
+* **LeetCode Profile:** [GuiDev-01](https://leetcode.com/u/guidev-01/)
+* **Portfolio (OrionJobs AI):** [GitHub Repository](https://github.com/GuiDev-01/orion-jobs-ai)
