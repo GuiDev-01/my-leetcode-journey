@@ -15,7 +15,7 @@ Here is a list of the problems I have solved so far. I will be updating this lis
 | 1 | Two Sum | [Python](./001-two-sum.py) | `Easy` | Hash Map (Dictionary) |
 | 217 | Contains Duplicate | [Python](./contains_Duplicate.py) | `Easy` | Hash Set / Hash Map |
 | 125 | Valid Palindrome | [Python](./validPalindrome.py) | `Easy` | Two Pointers / String Manipulation |
-| 344 | Reverse String | [Python](./reverseString.py) | `Easy` | | Two Pointers / String Manipulation | 
+| 344 | Reverse String | [Python](./reverseString.py) | `Easy` | Two Pointers / String Manipulation | 
 
 ---
 
